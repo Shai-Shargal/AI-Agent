@@ -33,4 +33,4 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/Shai-Shargal/AI-Agent
    cd ai-agent-sql
    ```
-   xd
+   xd1
